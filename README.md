@@ -11,6 +11,7 @@
 <a href="https://twitter.com/poorna_bhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poorna_bhagya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhagya-ekanayake-329754215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagya-ekanayake-329754215" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20885319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20885319" height="30" width="40" /></a>
+<a href="https://dev.to/bhagya" target="blank"><img align="center" width="32" height="32" src="https://img.icons8.com/windows/32/dev.png" alt="dev"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
